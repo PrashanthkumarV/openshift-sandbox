@@ -4,7 +4,7 @@ application = Flask(__name__)
 
 @application.route("/")
 def hello():
-    return "Hello Prashanth!"
+    return "Hello Prashanth! Welcome To Openshift"
 
 
 if __name__ == "__main__":
